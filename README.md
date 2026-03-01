@@ -1,4 +1,3 @@
-Perfeito — aqui está um **README.md profissional em inglês** para o projeto **Minesweeper AI**, já estruturado no padrão de portfólio técnico internacional (pronto para copiar e colar no GitHub):
 
  Minesweeper AI
 
